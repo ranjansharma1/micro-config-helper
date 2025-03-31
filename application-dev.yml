@@ -1,7 +1,7 @@
-
-spring:
-  application:
-    name: CONFIG-DEV
+# Commenting Below as it is updating application name
+# spring:
+#   application:
+#     name: CONFIG-DEV
 
 eureka:
   instance:
