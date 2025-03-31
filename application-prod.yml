@@ -1,7 +1,7 @@
-
-spring:
-  application:
-    name: CONFIG-PROD
+# Commenting Below as it is updating microservices name
+# spring:
+#   application:
+#     name: CONFIG-PROD
 
 eureka:
   instance:
